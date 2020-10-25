@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>James</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style.css" type="text/css">
+    <link rel="stylesheet" href="/media-queries.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+  </head>  
+
+  <body>
+   
+      <pre>
+      <center><p style="color:#cfc6c7;font-size:20px">
+My first personal website!
+      </p></center>
+      </pre>
+    
+    
+  <div class ="flex-index-container">
+  
+    <div class="left">  
+      <h2>
+        About Me
+      </h2>
+      <pre>
+      <p style="font-size:20px">
+I am a freshman at <br>
+University at Buffalo<br>
+majoring in Computer Science.<br>
+This is my first hackathon!<br>
+I am new to programming<br>
+so I don't know a whole<br>
+lot but this project was<br>
+a lot of fun to make.<br>
+My favorite author<br>
+is Stephen King.<br>
+      </p>
+      </pre>
+      
+    </div>
+    <div class="center">
+     <h1 class="img"><center>
+     <p style="font-family:Calibri">
+      James Aquilina
+       </p><img src = "https://cdn.glitch.com/75637daa-dc59-4ce1-860a-bed18450f9d1%2FMyself%26Watson.JPG?v=1603572545001" 
+               class= "logo">
+     </center></h1>
+      </div>
+           
+    
+    <div class="right">
+      <h2>
+        Projects
+      </h2>
+      <br>
+      <br>
+        
+      
+      <h3><a href ="Resume.html">
+          Resume
+        </a></h3>
+      
+          <p>
+            This ink will take you to my <strong><em>resume</em></strong>
+          </p>
+      
+        <h3><a href="Video.html">
+          Videos
+        </a></h3>
+          <p>
+            A link to a videos I created.
+          </p>
+        <h3><a href="photos.html">
+            Photography 
+        </a></h3>
+          <p>
+            A link to some of my photography
+          </p>
+        <h3><a href= "https://www.behance.net/aquilijc0285fc">
+          Behance Profile
+          </a></h3>
+          <p>
+            A link to my multimedia portfolio.
+          </p>
+      
+        
+    </div>
+ 
+    </div>
+    
+    <footer class="footer">
+      <div class="gradient">       
+      <a href = "https://www.linkedin.com/feed/" target ="_blank">
+        <i class ="fa fa-linkedin fa-3x" aria-hidden="true"></i>
+      </a>
+        
+      </div>
+      <div class="gradient">        
+      <a href = "https://www.instagram.com/" target="_blank">
+        <i class =" fa fa-instagram fa-3x" aria-hidden="true"></i>
+      </a>
+      </div>
+    </footer>
+ 
+  </body>
+
+</html>
